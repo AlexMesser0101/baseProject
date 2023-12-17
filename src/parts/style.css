@@ -1,0 +1,19 @@
+.droplist {
+  width: 100%;
+  margin: 5px;
+  user-select: none;
+  border-bottom: 1px solid #d4d7d9;
+}
+.droplist:hover {
+  transition: 0.4s;
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.droplist-items {
+  background-color: #e6ecf0;
+  padding: 20px;
+  cursor: move;
+  border: 1px solid #d4d7d9;
+  border-bottom: 0px;
+}
+
+/*# sourceMappingURL=style.css.map */
